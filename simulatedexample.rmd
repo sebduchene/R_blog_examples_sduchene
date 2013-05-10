@@ -1,4 +1,4 @@
-Examples of central limit theorem and finite population correction
+Examples of law of large numbers and finite population correction
 ------------------------------------------------------------------
 
 Load the library and simulate some data
